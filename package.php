@@ -18,15 +18,15 @@
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="packege.php">packege</a>
+            <a href="package.php">package</a>
             <a href="book.php">book</a>
         </nav>
 
         <div id="menu-btn" class="fas fa-bars"></div>
     </section><!--header-->
 
-        <div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
-            <h1>book now</h1>
+        <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
+            <h1>package</h1>
         </div>
 
 
@@ -51,7 +51,7 @@
             <h3>quick links</h3>
             <a href="home.php"> <i class="fas fa-angle-right"></i>home</a>
             <a href="about.php"> <i class="fas fa-angle-right"></i>about</a>
-            <a href="packege.php"> <i class="fas fa-angle-right"></i>packege</a>
+            <a href="package.php"> <i class="fas fa-angle-right"></i>package</a>
             <a href="book.php"> <i class="fas fa-angle-right"></i>book</a>
         </div>
 
