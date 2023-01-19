@@ -2,7 +2,7 @@
 
 website design both front and backend, html css vanilla javascript php mysql - Junior Level
 
-the main feature of this website are:
+the main feature of this website are:<br>
 ✅ responsive header with toggle menu effect using vanilla javascript.
 ✅ responsive home section with touch slider using swiper.js
 ✅ responsive about section using flexbox.
